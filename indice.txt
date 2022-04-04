@@ -1,3 +1,6 @@
-Temario Segunda Evaluacion Entornos de Desarrollo
-UD3: DISEÑO DE PRUEBAS
-UD3: DOCUMENTACION Y OPTIMIZACION
+Temario Segunda Evaluacion Entornos de Desarrollo
+UD3: DISEÑO DE PUEBAS
+UD4: DOCUMENTACION Y OPTIMIZACION
+Temario Tercera Evalucaion Entornos de Desarrollo
+UD5: ELABORACION DE DIAGRAMAS DE CLASE
+UD6: ELABORACION DE DIAGRAMAS DE COMPORTAMIENTO
